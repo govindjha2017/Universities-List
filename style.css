@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h1{
+     text-align: center;
+}
+#informatin{
+    text-align: center;
+}
+.inpBtn{
+    display: flex;
+    justify-content: center;
+}
